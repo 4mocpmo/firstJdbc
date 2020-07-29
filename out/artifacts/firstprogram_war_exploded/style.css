@@ -1,0 +1,24 @@
+html{
+    /*background: #ffe2ea;*/
+    background: #3b3838;
+}
+a{
+    color: #ffffff;
+    border-style: solid;
+    border-radius: 12px;
+    border-color: #220826;
+    border-left-width: 11px;
+    border-right-width: 11px;
+    padding: 0px 15px 6px;
+    font-size: 50px;
+}
+table{
+    font-size: 50px;
+}
+input{
+    font-size: 60px;
+    color: #220826;
+    border-color: #220826;
+    border-radius: 15px;
+    padding: 0px 15px 6px;
+}
